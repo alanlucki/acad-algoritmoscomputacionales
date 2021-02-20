@@ -4,7 +4,10 @@
   "description": "",
   "main": "roman-numeral.js",
   "scripts": {
-    "[ 01 ] roman-numeral": "nodemon roman-numeral.js"
+    
+    "[ 01 ] roman-numeral 01": "nodemon roman-numeral-01.js" ,
+    "[ 02 ] roman-numeral 02": "nodemon roman-numeral-02.js" 
+    
   },
   "author": "",
   "license": "ISC"
