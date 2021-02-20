@@ -1,0 +1,11 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "roman-numeral.js",
+  "scripts": {
+    "[ 01 ] roman-numeral": "nodemon roman-numeral.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
